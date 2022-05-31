@@ -1,0 +1,25 @@
+{
+    "versions": {
+        "0.0": {
+            "feature": [
+                "Fish Shell setup"
+            ],
+            "development version": {
+                "beta": {
+                    "0.0.b.0": [
+                        "(Fish Shell setup)"
+                    ]
+                }
+            }
+        }
+    },
+    "features": {
+        "future": {
+        },
+        "present": {
+            "Fish Shell setup": "0.0 -> now"
+        },
+        "past": {
+        }
+    }
+}
