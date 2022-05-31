@@ -2,7 +2,7 @@
 This is my Fish Shell setup, and I use it for create more speed and productivity such as create shortcut for many frequently used command, jump to many location by use shortcut path, show repository of git in line and also make it beutiful.
 
 ### **Go to**
-- [Version record](Projects/Software%20Setup/Setup%20List/Fish%20Shell%20setup/Project/version-record.json)
+- [Version record](./version-record.json)
 
 ### **OS support**
 - Windows 10, 11 (WSL)
@@ -63,7 +63,7 @@ And you can see more fonts to get the one that is right for you [here](https://w
 
 > **Important** (for Windows (WSL) and Linux only)
 >
-> Don't close terminal or type any command after install brew for [1.4](./readme.md#14-add-brew-to-path-for-windows-wsl-and-linux-only).
+> Don't close terminal or type any command after install brew for [1.4](/readme.md#14-add-brew-to-path-for-windows-wsl-and-linux-only).
 
 ### **1.5. Add Brew to PATH** (For Windows (WSL) and Linux only)
 After installing brew you can see in topic "*Next steps*" in "*Run these two commands in your terminal to add Homebrew to your PATH*"
