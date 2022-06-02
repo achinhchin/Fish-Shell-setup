@@ -1,7 +1,8 @@
-# **My Fish Shell Setup**
+# **My Fish Shell setup**
 This is my Fish Shell setup, and I use it for create more speed and productivity such as create shortcut for many frequently used command, jump to many location by use shortcut path, show repository of git in line and also make it beutiful.
 
-### **Preview Image**
+### **Image Preview**
+- Example command
 ![fish](https://github.com/chinhchin/Fish-Shell-setup/blob/0.0.b.0/readme-assets/fish.png?raw=true)
 
 ### **Go to**
