@@ -16,12 +16,14 @@ This is my Fish Shell setup, and I use it for create more speed and productivity
 - macOS
 - linux
 
+### **Package requirement**
+- [Brew](https://github.com/chinhchin/Brew-setup.git)
+
 ### **Contents**
 #### 1. [Prepare to use fish shell](./readme.md#1-prepare-to-use-fish-shell)
 1. [Install WSL](./readme.md#11-install-wsl-for-windows-only)
 2. [Install Nerd Font](./readme.md#12-install-nerd-font)
 3. [Set your font in terminal to Nerd Font](./readme.md#13-set-your-font-in-terminal-to-nerd-font)
-4. [Install Brew](./readme.md#14-install-brew)
 
 #### 2. [Install Fish and useful package](./readme.md#2-install-fish-and-useful-package)
 1. [Install Fish](./readme.md#21-install-fish)
@@ -55,9 +57,6 @@ So I use [Caskaydia Cove Nerd Font](https://github.com/ryanoasis/nerd-fonts/rele
 And you can see more fonts to get the one that is right for you [here](https://www.nerdfonts.com/).
 
 ### **1.3 Set your font in terminal to Nerd Font**
-
-### **1.4 Install Brew**
-If you don't know how to install, following [this](https://github.com/chinhchin/Brew-setup.git).
 
 ## **2. Install Fish and useful package**
 ### **2.1 Install Fish**
