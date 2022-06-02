@@ -22,8 +22,6 @@ This is my Fish Shell setup, and I use it for create more speed and productivity
 2. [Install Nerd Font](./readme.md#12-install-nerd-font)
 3. [Set your font in terminal to Nerd Font](./readme.md#13-set-your-font-in-terminal-to-nerd-font)
 4. [Install Brew](./readme.md#14-install-brew)
-5. [Add Brew to path](./readme.md#15-add-brew-to-path-for-windows-wsl-and-linux-only)
-6. [1.6. Install Build Essential and GCC](./readme.md#16-install-build-essential-and-gcc)
 
 #### 2. [Install Fish and useful package](./readme.md#2-install-fish-and-useful-package)
 1. [Install Fish](./readme.md#21-install-fish)
@@ -59,31 +57,7 @@ And you can see more fonts to get the one that is right for you [here](https://w
 ### **1.3 Set your font in terminal to Nerd Font**
 
 ### **1.4 Install Brew**
-1. Open your terminal.
-2. Install Brew.
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-> **Important** (for Windows (WSL) and Linux only)
->
-> Don't close terminal or type any command after install brew for [1.5](./readme.md#15-add-brew-to-path-for-windows-wsl-and-linux-only).
-
-### **1.5 Add Brew to PATH** (For Windows (WSL) and Linux only)
-After installing brew you can see in topic "*Next steps*" in "*Run these two commands in your terminal to add Homebrew to your PATH*"
-Run those two command to add Homebrew to your PATH.
-
-- **Example in WSL**
-![WSL example](https://github.com/chinhchin/Fish-Shell-setup/blob/0.0.b.0/readme-assets/Prepare%20to%20install/WSL%20example.png?raw=true)
-
-- **Example in Linux**
-![Linux example](https://github.com/chinhchin/Fish-Shell-setup/blob/0.0.b.0//readme-assets/Prepare%20to%20install/Linux%20example.png?raw=true)
-
-### **1.6 Install Build Essential and GCC**
-```
-sudo apt-get install build-essential
-brew install gcc
-```
+If you don't know how to install, following [this](https://github.com/chinhchin/Brew-setup.git).
 
 ## **2. Install Fish and useful package**
 ### **2.1 Install Fish**
