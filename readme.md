@@ -20,6 +20,8 @@ This is my Fish Shell setup, and I use it for create more speed and productivity
 - [Brew](https://github.com/chinhchin/Brew-setup.git)
 
 ### **Contents**
+#### 0. [Update apt](./readme.md#0-update-apt-for-debain-only-if-you-use-other-you-should-update-your-linux-before-start)
+
 #### 1. [Prepare to use fish shell](./readme.md#1-prepare-to-use-fish-shell)
 1. [Install WSL](./readme.md#11-install-wsl-for-windows-only)
 2. [Install Nerd Font](./readme.md#12-install-nerd-font)
@@ -40,6 +42,11 @@ This is my Fish Shell setup, and I use it for create more speed and productivity
 6. [Useful shortcut command](./readme.md#46-useful-shortcut-command)
 
 ---
+## **0. Update apt** (For Debain only, if you use other you should update your Linux before start)
+Run these commands on your terminal
+```
+sudo apt update && sudo apt upgrade
+```
 
 ## **1. Prepare to use fish shell**
 ### **1.1 Install WSL** (For Windows only)
