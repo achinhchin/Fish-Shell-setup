@@ -16,7 +16,7 @@ This is my Fish Shell setup, and I use it for create more speed and productivity
 - macOS
 - linux
 
-### **Package requirement**
+### **Packages requirement**
 - [Brew](https://github.com/chinhchin/Brew-setup.git)
 
 ### **Contents**
@@ -60,6 +60,10 @@ And you can see more fonts to get the one that is right for you [here](https://w
 
 ## **2. Install Fish and useful package**
 ### **2.1 Install Fish**
+> **Important**
+>
+> You have to install brew before use this command, see install solution in [packages requirement](./readme.md#packages-requirement)
+
 ```
 brew install fish
 fish
