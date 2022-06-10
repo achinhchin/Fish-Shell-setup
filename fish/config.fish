@@ -4,8 +4,15 @@ alias llt "exa -gTa --icons --level 3"
 
 alias md mkdir
 
+# app
 alias g git
 
+alias tm tmux
+alias tmks "tmux kill-session -t"
+alias tmat "tmux attach-session -t"
+alias tmls "tm ls"
+
+# workspace
 alias cls clear
 alias clr clear
 
@@ -58,6 +65,7 @@ function peco_change_directory
     echo $HOME/.config
     ls -ad $HOME/.config/*
     ghq list -p
+    ls -ad /mnt/g/My\ Drive/Chinchin/Projects/*
   end | sed -e 's/\/$//' | awk '!a[$0]++' | _peco_change_directory $argv
 end
 
