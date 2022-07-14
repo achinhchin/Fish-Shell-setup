@@ -129,7 +129,7 @@ brew install peco
 
 ## **3. config.fish**
 ```
-vim ~/.config/fish/config.fish
+nano ~/.config/fish/config.fish
 ```
 
 Copy data from this [config.fish](./fish/config.fish) to terminal.
