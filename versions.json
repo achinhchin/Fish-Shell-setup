@@ -1,0 +1,23 @@
+{
+    "versions": {
+        "0.2": {
+            "features": "Fish Shell setup",
+            "release": true,
+            "update": "update config.fish",
+            "development version": {}
+        },
+        "0.3": {
+            "features": "Fish Shell setup",
+            "release": true,
+            "update": "remove config.fish and paste it on file",
+            "development version": {}
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {
+            "Fish Shell setup": "0.0 -> now"
+        },
+        "past": {}
+    }
+}
